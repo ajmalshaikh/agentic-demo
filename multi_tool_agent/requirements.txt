@@ -1,0 +1,4 @@
+flask
+gunicorn
+google-cloud-bigquery
+google-adk>=0.1  # use the ADK package version you have; pin per your environment
